@@ -1,5 +1,5 @@
 #! /bin/bash
 
-awardee=quinn
+awardee=mark
 
 echo $awardee
